@@ -1,0 +1,9 @@
+~/.ssh/config
+..................................................................................
+        Host "Hostname"
+        HostName "IP address"
+        User "username"
+        Port 22
+        IdentityFile /home/admin/ansible/my_key - path to privat key file
+..................................................................................
+
